@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\bin\Debug\net7.0\Imposto.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\bin\Debug\net7.0\Imposto.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\bin\Debug\net7.0\Imposto.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\bin\Debug\net7.0\Imposto.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\bin\Debug\net7.0\Imposto.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\refint\Imposto.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\Imposto.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HerancaPolimorfismo\Imposto\obj\Debug\net7.0\ref\Imposto.dll
